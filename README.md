@@ -66,6 +66,6 @@ $ ros2 launch follow_waypoints follow_waypoints.launch.py
 Scenario 2: Launch follow_waipoints for moving via points without pause and path smoothing.
 
 ```
-$ ros2 launch move_via_points move_via_points.launch.py
+$ ros2 launch follow_waypoints move_via_points.launch.py
 ```
 
