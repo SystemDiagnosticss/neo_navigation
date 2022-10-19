@@ -1,6 +1,6 @@
 # neo_navigation
 
-This repository contains the ROS packages for navigate TurtleBot3 in a figure-8 pattern with Simple Commander API in two scenarios follow waypoints and move through poses. This is used to demonstrate different robotic behavior in these two cases.
+This repository contains the ROS packages for navigate TurtleBot3 in a figure-8 pattern with Simple Commander API in two scenarios follow waypoints and move through poses. This is used to demonstrate different robotic behavior in these two cases. Details in video https://youtu.be/ZvESSTOERUQ .
 
 ## Prerequisites
 1. Ubuntu 20.04
