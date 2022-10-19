@@ -1,4 +1,4 @@
-# Neo_navigation
+# neo_navigation
 
 This repository contains the ROS packages for navigate TurtleBot3 in a figure-8 pattern with Simple Commander API in two scenarios follow waypoints and move through poses. This is used to demonstrate different robotic behavior in these two cases.
 
@@ -15,7 +15,7 @@ This repository contains the ROS packages for navigate TurtleBot3 in a figure-8 
 ## Development
 
 ### Setup
-Neo_navigation packages use colcon for building code. So first of all you need to prepare colcon workspace:
+neo_navigation packages use colcon for building code. So first of all you need to prepare colcon workspace:
 
 ```
 $ mkdir -p ros2_ws/src
